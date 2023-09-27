@@ -1,4 +1,4 @@
-# JB_SIH_32_SIH1349
+# JB_SIH_32_1349
 
 Using existing CCTV network for crowd management using AI&amp;ML.
 # Object and Face Detection System
